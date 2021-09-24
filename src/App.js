@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1>Learn React testing </h1>
+     <button style={{backgroundColor: 'red'}}>Change to blue</button>
     </div>
   );
 }
